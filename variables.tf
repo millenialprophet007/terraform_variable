@@ -1,9 +1,9 @@
 variable "filename" {
   type = string
-  default = "sampletext2.txt"
+  default = "sampletext3.txt"
 }
 
 variable "content" {
   type = string
-  default = "Hello from Shihab"
+  default = "Hello from Shuhib"
 }
